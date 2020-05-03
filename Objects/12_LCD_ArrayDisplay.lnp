@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\12_LCD_ArrayDisplay.obj" 
+TO ".\Objects\12_LCD_ArrayDisplay" 
+PRINT(".\Listings\12_LCD_ArrayDisplay.m51") RAMSIZE(256) 
